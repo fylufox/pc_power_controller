@@ -1,2 +1,2 @@
 <?php
-exec('../power_controllerwol/wol > /dev/null &');
+exec('../power_controller/wol > /dev/null &');
